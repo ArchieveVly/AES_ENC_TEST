@@ -20,7 +20,7 @@ public class Main {
 
         while (running) {
             System.out.println("AES Encryption Tool");
-            System.out.println("   DarkOaks Tech   ");
+            System.out.println("   CODERACE Tech   ");
             System.out.println("---------------");
             System.out.println("1. Encrypt");
             System.out.println("2. Decrypt");
